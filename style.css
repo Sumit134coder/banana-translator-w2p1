@@ -1,6 +1,6 @@
 #output{
-    border: 1px solid black;
-    border-radius: 30px;
+    border: 1px solid rgb(241, 227, 99);
+    border-radius: 15pxpx;
     height: 10rem;
     width: 70%;
     background-color: rgb(241, 227, 99);
@@ -41,9 +41,6 @@ body{
     padding: 10px 0px;
 
 }
-#txtcontainer{
-    border: 1px solid black;
-}
 textarea{
     margin: auto;
     display: block;
@@ -52,8 +49,7 @@ textarea{
     font-weight: 500;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgb(241, 241, 175);
-    border-radius: 30px;
-
+    border-radius: 10px;
 }
 h1{
     text-align: center;
@@ -70,4 +66,7 @@ h1{
     height: 4rem;
     padding-top: 1rem;
     border-radius: 15px 50px;
+}
+:placeholder-shown{
+    text-align: center;
 }
