@@ -1,0 +1,70 @@
+#output{
+    border: 1px solid black;
+    height: 10rem;
+    width: 70%;
+    background-color: aliceblue;
+    margin: auto;
+    display: block;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div{
+    padding: 10px 0px;
+}
+#btn{
+    display: block;
+    margin: auto;
+    height: 5rem;
+    font-size: large;
+    padding: 10px 0px;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 12px;
+    background-color: rgb(241, 227, 99);
+    box-shadow: black;
+
+}
+
+body{
+    background-image: url('background header banana.png');
+    padding: 10px;
+    margin: 0;
+    padding: 0;
+}
+#txt{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+    color: rgb(247, 191, 88);
+    background-color: black;
+    padding: 10px 0px;
+
+}
+#txtcontainer{
+    border: 1px solid black;
+}
+textarea{
+    margin: auto;
+    display: block;
+    width: 50%;
+    padding: 10px 0px;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+h1{
+    text-align: center;
+    color: rgb(39, 18, 3);
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.ftr{
+    background-color: yellow;
+    text-align: center;
+    font-size: large;
+    font-weight: 500;
+    height: 4rem;
+    padding-top: 1rem;
+}
