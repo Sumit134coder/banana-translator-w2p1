@@ -1,8 +1,9 @@
 #output{
     border: 1px solid black;
+    border-radius: 30px;
     height: 10rem;
     width: 70%;
-    background-color: aliceblue;
+    background-color: rgb(241, 227, 99);
     margin: auto;
     display: block;
     font-weight: 500;
@@ -50,7 +51,8 @@ textarea{
     padding: 10px 0px;
     font-weight: 500;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+    background-color: rgb(241, 241, 175);
+    border-radius: 30px;
 
 }
 h1{
@@ -58,7 +60,7 @@ h1{
     color: rgb(39, 18, 3);
     background-color: yellow;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+    border-radius: 15px 50px;
 }
 .ftr{
     background-color: yellow;
@@ -67,4 +69,5 @@ h1{
     font-weight: 500;
     height: 4rem;
     padding-top: 1rem;
+    border-radius: 15px 50px;
 }
