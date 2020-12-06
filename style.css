@@ -8,6 +8,7 @@
     display: block;
     font-weight: 500;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 div{
     padding: 10px 0px;
@@ -50,6 +51,7 @@ textarea{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgb(241, 241, 175);
     border-radius: 10px;
+    text-align: center;
 }
 h1{
     text-align: center;
